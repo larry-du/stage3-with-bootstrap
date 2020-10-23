@@ -20,5 +20,6 @@ Bootstrap v4.5 使用練習
 
 解決方式:
 1. 手作實驗測試與練習
-2. bootstrap source code 查找
-3. chris 的前端新手村
+2. bootstra官方文件
+3. bootstrap source code 查找
+4. chris 的前端新手村
