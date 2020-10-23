@@ -5,6 +5,7 @@ Bootstrap v4.5 使用練習
 1. Bootstrap 
 2. fontawesome(cdn)
 3. swiper(cdn) 
+4. RWD 設計
 
 練習時間: 約 4 週(code review 後修改)
 
